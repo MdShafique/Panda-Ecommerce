@@ -12,3 +12,26 @@
     background-color: #fceae8;
     border-radius: 1em;
 }
+.panda-subscribe{
+    background-color: #fceae8; 
+}
+.panda-text{
+    padding-left: 50px;
+}
+.panda-color{
+    color: #ff4790;
+    font-size: 40px;
+}
+.panda-button{
+    background-color:#ff4790;
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+}
+.changed-back{
+    background-color: orchid;
+}
+.sticky-fix{
+    position: fixed;
+}
